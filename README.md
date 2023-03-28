@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/cotybro/Time-Tracking)
-- Live Site URL: [Live Site]https://time-tracking-cg92s5ewu-cotybro.vercel.app/)
+- Live Site URL: [Live Site](https://time-tracking-cg92s5ewu-cotybro.vercel.app/)
 
 ## My process
 
