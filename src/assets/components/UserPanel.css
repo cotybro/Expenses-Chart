@@ -1,0 +1,73 @@
+.br-15 {
+    border-radius: 15px;
+}
+
+.user-panel-container {
+    background-color: #1C204B;
+}
+.user-panel {
+    background-color: #5747EA;
+    padding: 2.3125rem 5.25rem 5rem 2rem;
+}
+
+.user-panel img {
+    width: 78px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-bottom: 2.7rem;
+}
+
+.user-panel p {
+    font-size: .9375rem;
+    font-weight: 400;
+    color: #BBC0FF;
+    margin-bottom: .18rem;
+}
+
+.user-panel h1 {
+    font-weight: 300;
+    font-size: 2.5rem;
+    line-height: 47px;
+}
+
+.time-container {
+    background-color: #1C204B;
+    padding: 1.625rem 9.687rem 2rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.time-container button {
+    color: #7078C9;
+    font-size: 1.125rem;
+    background-color: transparent;
+    border: none;
+}
+
+.mb {
+    margin-bottom: 1.312rem;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button:active,
+button:hover {
+    color: #fff;
+}
+
+@media screen and (max-width: 905px) { 
+    .user-panel {
+        display: flex;
+    }
+
+    .user-panel img {
+        margin-right: 20px;
+    }
+
+    .user-panel h1 {
+        font-size: 1.5rem;
+    }
+}
