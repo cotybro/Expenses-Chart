@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screencapture-time-tracking-coral-vercel-app-2023-03-28-02_06_44](https://user-images.githubusercontent.com/36529826/228155911-6a6ab567-0e78-4c6d-af94-3f817cce7d89.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/cotybro/Time-Tracking)
+- Live Site URL: [Live Site]https://time-tracking-cg92s5ewu-cotybro.vercel.app/)
 
 ## My process
 
